@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__location_icon" width="24" height="24" data-name="location icon" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_1020" fill="none" d="M0 0H15.14V20H0z" data-name="Rectangle 1020"/>
+        </clipPath>
+        <style>
+            .prefix__cls-4{fill:#e21e36}
+        </style>
+    </defs>
+    <g id="prefix__Location" transform="translate(11.57 12)">
+        <g id="prefix__Location-2" clip-path="url(#prefix__clip-path)" data-name="Location" transform="translate(-7.57 -10)">
+            <path id="prefix__Path_4798" d="M14.2 11.491c.193-.289.193-.289 0-.1" class="prefix__cls-4" data-name="Path 4798" transform="translate(-.507 -.402)"/>
+            <path id="prefix__Path_4799" d="M9.631.793a7.232 7.232 0 0 1 2.8 2.218A7.232 7.232 0 0 0 8.859.6 6.847 6.847 0 0 1 13.1 7.157c-.289 4.147-7.618 8.582-8 9.161s1.927 3.082 2.12 2.893.579.386.771.193l5.979-8.293a6.75 6.75 0 0 0 .868-3.375A7.136 7.136 0 0 0 9.631.793" class="prefix__cls-4" data-name="Path 4799" transform="translate(-.18 -.021)"/>
+            <path id="prefix__Path_4800" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.964px" d="M14.2 11.491c.193-.289.193-.289 0-.1z" data-name="Path 4800" transform="translate(-.507 -.402)"/>
+            <path id="prefix__Path_4801" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.964px" d="M.6 9.665a8.582 8.582 0 0 0 1.446 2.7L7.154 19.4a.386.386 0 0 0 .579 0l5.979-8.293a6.75 6.75 0 0 0 .868-3.375A7.136 7.136 0 0 0 .5 6.1" data-name="Path 4801" transform="translate(-.018 -.022)"/>
+            <path id="prefix__Path_4802" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.964px" d="M10.214 7.907A2.507 2.507 0 1 1 7.707 5.4a2.507 2.507 0 0 1 2.507 2.507z" data-name="Path 4802" transform="translate(-.186 -.193)"/>
+        </g>
+    </g>
+</svg>

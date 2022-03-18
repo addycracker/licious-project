@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__cart_icon" width="24" height="24" data-name="cart icon" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_1028" fill="none" d="M0 0H20.456V18.44H0z" data-name="Rectangle 1028"/>
+        </clipPath>
+        <style>
+            .prefix__cls-6{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke:#000;stroke-width:.983px}
+        </style>
+    </defs>
+    <g id="prefix__Cart_bag" data-name="Cart bag" transform="translate(2 3)">
+        <g id="prefix__bag" transform="translate(0 -5.993)">
+            <g id="prefix__Cart" transform="translate(10.229 15.213)">
+                <g id="prefix__Cart-2" clip-path="url(#prefix__clip-path)" data-name="Cart" transform="translate(-10.228 -9.22)">
+                    <path id="prefix__Path_4853" fill="none" stroke="#e21e36" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.983px" d="M5.034 16.167a1.967 1.967 0 1 0-1.967 1.967 1.967 1.967 0 0 0 1.967-1.967z" data-name="Path 4853" transform="translate(-.018 -.235)"/>
+                    <path id="prefix__Path_4854" fill="none" stroke="#e21e36" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.983px" d="M13.334 16.167a1.967 1.967 0 1 0-1.967 1.967 1.967 1.967 0 0 0 1.967-1.967z" data-name="Path 4854" transform="translate(-.155 -.235)"/>
+                    <path id="prefix__Path_4855" d="M.992 13.713l10.818-.688a.393.393 0 0 0 .3-.3v-.492a.393.393 0 0 0 0-.3l-.3-.2-9.441-1.364C1.09 9.976.5 9.288.5 8.3V4.764A2.065 2.065 0 0 1 2.565 2.6h8.556" class="prefix__cls-6" data-name="Path 4855" transform="translate(-.008 -.043)"/>
+                    <path id="prefix__Path_4856" fill="#e21e36" d="M15.355 1.29S13.192 6.4 9.848 8.076.8 9.256.8 9.256l1.082.885 10.425 1.77 3.245-9.835A2.065 2.065 0 0 1 16.24 1V.7l-.787.59" data-name="Path 4856" transform="translate(-.013 -.012)"/>
+                    <path id="prefix__Path_4857" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.983px" d="M5.034 16.167a1.967 1.967 0 1 0-1.967 1.967 1.967 1.967 0 0 0 1.967-1.967z" data-name="Path 4857" transform="translate(-.018 -.235)"/>
+                    <path id="prefix__Path_4858" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.983px" d="M13.334 16.167a1.967 1.967 0 1 0-1.967 1.967 1.967 1.967 0 0 0 1.967-1.967z" data-name="Path 4858" transform="translate(-.155 -.235)"/>
+                    <path id="prefix__Path_4859" d="M12.5 11.908l3.245-9.835A2.065 2.065 0 0 1 17.712.5h2.459" class="prefix__cls-6" data-name="Path 4859" transform="translate(-.207 -.008)"/>
+                    <path id="prefix__Path_4860" d="M.992 13.713l10.818-.688a.393.393 0 0 0 .3-.3v-.492a.393.393 0 0 0 0-.3l-.3-.2-9.441-1.364C1.09 9.976.5 9.288.5 8.3V4.764A2.065 2.065 0 0 1 2.565 2.6h8.556" class="prefix__cls-6" data-name="Path 4860" transform="translate(-.008 -.043)"/>
+                    <path id="prefix__Path_4861" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.983px" d="M.992 13.713l10.818-.688a.393.393 0 0 0 .3-.3 5.212 5.212 0 0 0 .1-.787l-.3-.2-9.54-1.377C1.09 9.976.5 9.288.5 8.3V4.764A2.065 2.065 0 0 1 2.565 2.6h8.556" data-name="Path 4861" transform="translate(-.008 -.043)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

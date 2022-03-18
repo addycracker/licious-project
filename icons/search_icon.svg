@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__search_icon" width="24" height="24" data-name="search icon" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path id="prefix__Rectangle_1019" fill="none" d="M0 0H19.801V20H0z" data-name="Rectangle 1019"/>
+        </clipPath>
+        <style>
+            .prefix__cls-4{fill:#e21e36}
+        </style>
+    </defs>
+    <g id="prefix__Search" transform="translate(11.9 12)">
+        <g id="prefix__Search-2" clip-path="url(#prefix__clip-path)" data-name="Search" transform="translate(-9.9 -10)">
+            <path id="prefix__Path_4794" d="M18.908 5a6.866 6.866 0 0 1 .1 1.294v.2a6.766 6.766 0 0 1-10.15 5.869l-.4-.2-5.373 6.07a1.294 1.294 0 0 1-.9.4A2.687 2.687 0 0 1 .5 17.338v.2a2.786 2.786 0 0 0 1.99 1.99 1.294 1.294 0 0 0 .9-.4l5.373-6.07.4.2a6.766 6.766 0 0 0 10.143-5.77v-.2A6.766 6.766 0 0 0 18.908 5" class="prefix__cls-4" data-name="Path 4794" transform="translate(-.002 -.025)"/>
+            <path id="prefix__Path_4795" d="M14.429 10.689a14.925 14.925 0 0 1-7.065.5S.8 17.455.3 16.758v.2a2.786 2.786 0 0 0 1.99 1.99 1.294 1.294 0 0 0 .9-.4l5.373-6.07.4.2A6.766 6.766 0 0 0 19.006 8.5c.1-.5-1.194 1.194-4.577 2.189" class="prefix__cls-4" data-name="Path 4795" transform="translate(-.001 -.042)"/>
+            <path id="prefix__Path_4796" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.995px" d="M19.305 7.495a6.766 6.766 0 0 1-10.149 5.87l-.4-.2-5.473 5.97a1.294 1.294 0 0 1-.9.4A2.786 2.786 0 0 1 .4 17.544a1.294 1.294 0 0 1 .4-.9l5.771-5.075.4-.4A6.667 6.667 0 0 1 5.674 7.2a6.567 6.567 0 0 1 .1-.8" data-name="Path 4796" transform="translate(-.002 -.032)"/>
+            <path id="prefix__Path_4797" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.995px" d="M7.4 2.788a6.766 6.766 0 0 1 11.94 4.477" data-name="Path 4797" transform="translate(-.037 -.002)"/>
+        </g>
+    </g>
+</svg>

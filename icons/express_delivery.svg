@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__express_delivery" width="24" height="24" data-name="express delivery" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="prefix__Group_109" data-name="Group 109" transform="translate(-417.902 -238.654)">
+        <g id="prefix__Group_108" data-name="Group 108">
+            <g id="prefix__Group_107" data-name="Group 107">
+                <path id="prefix__Rectangle_24" fill="#df243c" d="M0 0H5.117V6.201H0z" data-name="Rectangle 24" transform="translate(419.068 243.012)"/>
+                <path id="prefix__Path_255" d="M432.982 247.5l.789.91a.444.444 0 0 1 .082.143l1.23 3.61c.219.825-.321 1.506-1.132 2.1a.427.427 0 0 1-.253.082h-2.558a.43.43 0 0 1-.4-.278l-.867-2.311a1.284 1.284 0 0 0-1.2-.834h-4.244c-1.828 0-3.031 2.478-3.342 3.751a.428.428 0 0 0 .417.528h6.133a.428.428 0 0 1 .343.171l1.02 1.37a.429.429 0 0 0 .343.172h5.193a.424.424 0 0 0 .274-.1l2.329-1.94a.429.429 0 0 1 .274-.1h2.628a.43.43 0 0 0 .385-.62 2.873 2.873 0 0 0-2.018-1.564.438.438 0 0 1-.279-.214l-2-3.739a.428.428 0 0 1 .075-.506l.5-.505a.425.425 0 0 0 .126-.3v-1.105a.429.429 0 0 0-.429-.429h-3.111" class="prefix__cls-3" data-name="Path 255"/>
+                <path id="prefix__Path_256" d="M424.185 249.213a1.5 1.5 0 0 0 1.355 1.711" class="prefix__cls-3" data-name="Path 256"/>
+                <g id="prefix__Group_106" data-name="Group 106">
+                    <path id="prefix__Path_257" d="M424.185 245.773v-2.309a.429.429 0 0 0-.428-.429h-4.277a.429.429 0 0 0-.429.429v5.32a.429.429 0 0 0 .429.429h4.7v-3.44" class="prefix__cls-3" data-name="Path 257"/>
+                </g>
+                <path id="prefix__Path_258" d="M426.969 255.224a2.242 2.242 0 1 1-4.286.079" class="prefix__cls-3" data-name="Path 258"/>
+            </g>
+        </g>
+        <path id="prefix__Path_259" d="M440.05 254.794a2.242 2.242 0 1 1-4.178 1.218" class="prefix__cls-3" data-name="Path 259"/>
+    </g>
+</svg>
